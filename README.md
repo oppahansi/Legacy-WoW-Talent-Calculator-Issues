@@ -13,3 +13,7 @@ In this repository you can report issue related to the Classic WoW Talent Calcul
 
 Go to the [issue tab](https://github.com/oppahansi/Classic-WoW-Talent-Calculator-Issues/issues) and create an issue.  
 Please provide screenshots when possible and a clear issue description.
+
+## Join the community
+
+Feel free to join my [discord server](https://discord.gg/gECqyHRVwh). 
