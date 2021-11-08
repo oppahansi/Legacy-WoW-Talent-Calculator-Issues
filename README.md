@@ -6,8 +6,8 @@
 
 [![Google Play](http://docs.huihoo.com/android/5.0/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=de.oppahansi.cwtc)
 
-# Classic WoW Talent Calculator Issues
-In this repository you can report issue related to the Classic WoW Talent Calculator app
+# Legacy WoW Talent Calculator Issues
+In this repository you can report issue related to the Legacy WoW Talent Calculator app
 
 ## Reporting an issue
 
